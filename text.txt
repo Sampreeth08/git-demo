@@ -1,1 +1,2 @@
-Hi ! I am writing from github
+Hi ! I am writing from GitHub
+Iam wirting from local machine
